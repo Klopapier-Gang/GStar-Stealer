@@ -1,10 +1,6 @@
-![image](https://i.postimg.cc/JnK2Yj5L/vilsa-stealer-banner.png)
 
 ---
 
-<p align = "center">
-  <a href = "https://github.com/FemboyClub/Vilsa-Stealer/releases/download/v1/Vilsa.Stealer.Build.zip">Download - Lastest release</a>
-</p>
 <p align = "center">
   <a>Vilsa Stealer is one of the best due to its speed, reliability, and ability to extract sensitive data like browser credentials and tokens efficiently. It's user-friendly yet powerful, with advanced features and strong security bypass capabilities, making it a top choice for discreet data gathering</a>
 </p>
